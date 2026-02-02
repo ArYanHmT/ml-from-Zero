@@ -1,5 +1,3 @@
-### متن README
-markdown
 # Sentiment Analysis using NLP
 
 ## 📌 Project Description
@@ -22,3 +20,4 @@ It demonstrates how textual data can be converted into numerical features for Ma
 
 bash
 python sentiment_analysis.py
+
