@@ -1,0 +1,1 @@
+A simple classification model using Logistic Regression to predict student pass/fail outcome based on study hours.

@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 
 # 1. Create a simple dataset
 data = {
-    "years_experience": [1, 2, 3, 4, 5, 6],
+    "years_experience": [1, 2, 3, 4, 5, 6 ],
     "salary": [30000, 35000, 40000, 45000, 50000, 55000]
 }
 
