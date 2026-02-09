@@ -34,4 +34,4 @@ model.fit(X_train, y_train, epochs=200)
 # evaluate
 loss, acc = model.evaluate(X_test, y_test)
 
-print("Accuracy:", acc)
+print("Accuracy:", acc )
